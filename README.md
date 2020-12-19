@@ -29,4 +29,4 @@ Test Cases:
 - purposely failed the login test case as it was not mandatory
 
 Database:
-- integrated java with MySQLiumWebdriver
+- integrated java with MySQL
