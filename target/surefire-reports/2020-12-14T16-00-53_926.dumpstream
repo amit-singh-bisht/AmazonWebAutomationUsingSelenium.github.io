@@ -1,0 +1,4 @@
+# Created at 2020-12-14T16:00:54.404
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Eclipse -Photon\Amazon_Testing\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

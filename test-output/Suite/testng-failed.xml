@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="Testing.Listeners"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="Testing.AmazonTest">
+        <methods>
+          <include name="addToCart"/>
+          <include name="afterTest"/>
+          <include name="checkOut"/>
+          <include name="search"/>
+          <include name="selectProduct"/>
+          <include name="filter"/>
+          <include name="signIn"/>
+          <include name="homePageNavigation"/>
+        </methods>
+      </class> <!-- Testing.AmazonTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
