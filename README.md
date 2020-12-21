@@ -21,7 +21,6 @@ What extra is done apart from above mentioned framework and test cases
 Framework:
 - Maven
 - Jenkin (with options given to user to choose the required browser from chrome, firefox and explorer)
-- Cucumber
 
 Test Cases:
 - "mobile" is given as input from the excel
