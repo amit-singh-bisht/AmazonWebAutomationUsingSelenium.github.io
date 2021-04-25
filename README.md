@@ -1,4 +1,4 @@
-# seleniumWebdriver
+# Amazon automation using Selenium
 
 Create a framework for Selenium UI Automation which should contain the below things:
 - Page Object Model (POM)
