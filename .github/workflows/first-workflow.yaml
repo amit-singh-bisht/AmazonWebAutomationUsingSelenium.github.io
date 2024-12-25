@@ -1,6 +1,8 @@
 name: First Workflow
 
 on:
+  repository_dispatch:
+    types: [your_specific_workflow_event]
   workflow_dispatch:
 
 jobs:
